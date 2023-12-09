@@ -1,0 +1,40 @@
+{
+  "consents": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "consents": ["ads", "stats"]
+    },
+    {
+      "id": 2,
+      "name": "Alice Smith",
+      "email": "alice.smith@example.com",
+      "consents": ["news"]
+    },
+    {
+      "id": 3,
+      "name": "Bob Johnson",
+      "email": "bob.johnson@example.com",
+      "consents": ["news", "ads"]
+    },
+    {
+      "id": 4,
+      "name": "Emily Davis",
+      "email": "emily.davis@example.com",
+      "consents": ["stats"]
+    },
+    {
+      "id": 5,
+      "name": "Charlie Brown",
+      "email": "charlie.brown@example.com",
+      "consents": ["news", "ads", "stats"]
+    },
+    {
+      "id": 6,
+      "name": "Eva White",
+      "email": "eva.white@example.com",
+      "consents": ["ads"]
+    }
+  ]
+}
